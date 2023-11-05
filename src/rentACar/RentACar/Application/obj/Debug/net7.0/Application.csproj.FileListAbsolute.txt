@@ -1,0 +1,12 @@
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.dll
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.dll
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\Muhammed\Documents\GitHub\Clean-Architecture-with-.NetCore\src\rentACar\RentACar\Application\obj\Debug\net7.0\ref\Application.dll

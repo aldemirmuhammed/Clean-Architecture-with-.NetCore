@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "38f1T7ieqlooPe+Mq6lCrOZoMtQZxCkBIt94wK+O82nSorSdx5iMOYgNsKFVTHpKWODFupF149gCRxA3z0Z3TA==",
+  "dgSpecHash": "Mu3dH8IlpZrDn/7bdza1ijQM4dHxtYhv7bzD5kDC9C45GiU4L26Va0uRRgMXlCLuvcL862byTy7m5vYXe520ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Muhammed\\Documents\\GitHub\\Clean-Architecture-with-.NetCore\\src\\rentACar\\RentACar\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Muhammed\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Muhammed\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Muhammed\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "C:\\Users\\Muhammed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Muhammed\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Muhammed\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Muhammed\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Muhammed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
